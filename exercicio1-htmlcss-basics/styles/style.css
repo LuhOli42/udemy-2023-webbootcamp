@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: rgb(247, 228, 247);
+  margin: 50px;
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  color: rgb(88, 88, 88);
+}
+p {
+  font-family: "Fira Sans", sans-serif;
+  color: rgb(78, 78, 78);
+}
+a {
+  color: rgb(122, 23, 147);
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(198, 119, 218);
+  text-decoration: underline;
+}
