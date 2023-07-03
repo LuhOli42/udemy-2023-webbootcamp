@@ -1,0 +1,80 @@
+body {
+  background-color: rgb(204, 231, 247);
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+header {
+  margin-bottom: 50px;
+}
+h1 {
+  color: rgb(36, 36, 203);
+  font-size: 50px;
+}
+img {
+  width: 300px;
+}
+main {
+  background-color: rgb(79, 79, 184);
+  margin: 0px 300px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 4px rgb(0, 0, 0, 0.2);
+  padding: 50px;
+  text-align: justify;
+  font-size: 20px;
+  color: rgb(219, 219, 219);
+}
+
+main p span {
+  font-weight: 800;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+  border-left: 5px solid transparent;
+  padding: 0px 10px;
+}
+
+.highlight {
+  color: rgb(255, 255, 177);
+  border-left: 5px solid rgb(255, 255, 177);
+}
+
+main a {
+  background-color: rgb(129, 129, 51);
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  box-shadow: 1px 1px 4px rgb(0, 0, 0, 0.2);
+}
+main a:hover {
+  background-color: rgb(184, 184, 64);
+}
+
+footer {
+  margin: 50px;
+  color: rgb(116, 116, 116);
+}
+
+footer a {
+  font-size: 35px;
+  background-color: rgb(51, 129, 129);
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  box-shadow: 1px 1px 4px rgb(0, 0, 0, 0.2);
+}
+footer a:hover {
+  background-color: rgb(78, 177, 177);
+}
+
+footer p {
+  margin: 35px;
+}
